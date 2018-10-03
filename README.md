@@ -7,6 +7,7 @@ Please add link of best resources to learn and contributing repositories here fo
 
 ### Machine Learning
 Please add link of best resources to learn and contributing repositories here for Machine Learning.
+- [An Introduction to Statistical Learning with Applications in R] (http://www-bcf.usc.edu/~gareth/ISL/)
 
 ### Blockchain
 Please add link of best resources to learn and contributing repositories here for Blockchain.
